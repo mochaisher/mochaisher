@@ -1,10 +1,10 @@
 ## Haiiiii! im mocha!
-### Im a small developer that started learning how to code in 2019, I love coffee and im studying AP CSP!
+### Im a small dev that started learning how to code in 2019, I love coffee and im studying AP CSP!
 
 #### About Me:
 - 🎂 15 (Dec 3rd)
 - 💻 CS Student
-- ⚧ Any/All (He/Him preferred)
+- ⚧ any/all (he/him preferred)
 
 #### Projects:
 - 🚀 Galaxy Protectors (2019)
