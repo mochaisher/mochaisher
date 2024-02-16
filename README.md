@@ -1,12 +1,13 @@
 ## Haiiiii! im mocha!
-### Im a small dev that started learning how to code in 2019, I love coffee and im studying AP CSP!
+#### Im a small dev that started learning how to code in 2019, I love coffee and im studying AP CSP!
 
-#### About Me:
+### About Me:
 - 🎂 **15** (Dec 3rd)
 - 💻 **CS Student**
 - ⚧ **any/all** (**he/him** preferred)
 
-#### Projects:
+### Projects:
+I've worked on a couple of things through the years...
 - 🚀 **Galaxy Protectors** (2019)
   - My first game, based off of a GDevelop Example.
   - Taught me how to start making games.
