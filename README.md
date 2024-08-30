@@ -30,6 +30,8 @@ i made a few things, check em out :3c
 - 💾 **byteTable** (2023)
   - Simple but fast Database using Hexadecimal.
   - Includes Encryption, Compression, Support for JS Objects / Arrays.
-
+- 🌠**Cosmo** (2024)
+  - Astrogon Modded Client
+  - Added various bugfixes, modding API's, and private servers, alongside learning cpp and nw-gyp.
 ### what stats?
 ![Metrics](/github-metrics.svg)
