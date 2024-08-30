@@ -1,4 +1,6 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
+# dude im killing myself cause i keep forgetting git shit
+
 name: Metrics
 on:
   # Schedule updates (each hour)
