@@ -2,7 +2,7 @@
 #### smol dev, heavy sleeper and cool :3
 
 ### what me?
-- **15**, she/her, trans girl :3
+- **16**, she/her, trans girl :3
 
 ### what do?
 i made a few things, check em out :3c
