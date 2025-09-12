@@ -4,64 +4,51 @@
 ![](https://discord.c99.nl/widget/theme-3/965824074787987506.png)
 
 ### what me?
-- 🕛 16yo (Dec. 3rd)
-- 🏫 Sophomore in HS
-- 🏳️‍⚧️ Trans girl :3
-- 🇲🇽/🇺🇸 Can speak ESP (Native, C1), ENG (C2), learning 🇩🇪 (A1)
+- 16yo (dec. 3rd)
+- junior in high school
+- trans girl :3
+- can speak spanish (native, C1), english (C2), learning german (A1)
 
 ### what do?
-I study CS/EE lol :3 
-- 🏆 Won several state competitions
-- 📖 Taking APCSA, APCSP, PCEP, PCPP1...
-- 🛠️ Worked on Hardware & Software dev
-  - 💼 Worked on internships :3 
-  - 📊 Data Science too but thats boring..
+i study CS/EE lol :3 
+- won several state competitions
+- took apcsa, apcsp, random python certification exams
+- worked on hardware & software
 
-I also made a few things, which are cool :3
-- 🚀 **Galaxy Protectors** (2019)
-  - My first game, based on a GDevelop Example.
-  - Taught me how to start making games.
-- ☁️ **WeatherApplet** (2021)
-  - Simple weather app.
-  - Taught me how to work with API's and UI/UX Design.
-- 🎵 **Beatshape** (2021-now)
-  - 4-Key rhythm game based on osu!mania.
-  - Taught me how to create API's using NodeJS, Rhythm Game Mechanics, and Game Design.
-  - Taught me block code, JS, TS, and eventually, C++ and SDL2.
-- 📊 **AstroUp** / **AstroBot** (2022-now)
+i also made a few cool things :3
+- **Beatshape** (2021-now, open-source)
+  - 4-key rhythm game based on osu!mania.
+  - taught me how to create APIs using nodejs and express
+  - taught me how to apply rhythm game mechanics with time (and formerly position)
+  - taught me block code, javascript, typescript
+  - worked on a c++ and sdl2 port (too hard)
+- **AstroUp** / **AstroBot** (2022-now, closed-source)
   - API / Data services for "Astrogon".
-  - Learned Computer Security which helped me learn how to better secure games/servers.
-  - Used for Data science and trend patterns
-  - Taught me system administration and reliability
-- ⛏ **Chaos Realm 2** (2022)
-  - Minecraft Java server with custom plugins written by me.
-  - Had plugins that expanded on the game's features, such as Economy, Custom Items, and Bosses.
-  - First time messing around with Java!!
-- ❗**AstroRootKit** (2023)
-  - First discovered exploit kit for Astrogon
-  - Used as a base of ethical hacking and securing things
-  - Applied many concepts of protection into **Cosmo**
-- ⚔ **BGPE** (2023)
-  - Decompilation of "Blocky Gun Paintball".
-  - Expansion of the game, including new features, maps, etc.
-  - Showed me inner workings of Unity and Decompilation
-  - Helped me skip ahead into dual credit/AP Classes in HS.
-- 💾 **byteTable** (2023)
-  - Simple but fast database that works with JS Objects, and Buffers.
-  - Includes Encryption, Compression, and Support for JS Objects / Arrays.
-- 🌠 **Cosmo** (2024-now)
+  - learned and applied compsec concepts, which helped me learn how to better secure games/servers.
+  - used data for data science and trend analysis across players
+  - taught me system administration and reliability (thanks aws)
+- **AstroRootKit** (2023, VERY closed-source)
+  - first discovered exploit kit for Astrogon
+  - used as a base for ethical hacking and for the development of **Cosmo**
+- **BGPE** (2023, closed-source)
+  - decompilation of "Blocky Gun Paintball".
+  - expansion of the game, including new features, maps, etc.
+  - showed me the inner workings of unity and decompilation
+  - helped me skip ahead into dual credit/AP Classes in high school.
+- **byteTable** (2023, open-source)
+  - Simple but fast key/field database
+  - includes encryption, compression, and support for js objects / arrays.
+- **Cosmo** (2024-now, closed-source)
   - Astrogon Mod Wrapper/Client
-  - Added various bug fixes, modding APIs, private servers, and some cpp and nw-gyp.
-- 💻 **Random PCB's** (2024-now)
-  - Worked on random circuit boards
-  - Got to learn KICad, basics of Electrical Engineering, etc..
-  - Helped my team develop a STEM project and win!
-  - Really fun! (Really expensive)
-- 🔗 **mochaaaa.dev** (2024-now)
-  - Got my own website finally!
-  - General description of me
-  - Feels nice to have!!
-- 🗿 **denkmaldrueberna.ch** (2025-now)
-  - Simple website for me and my friends
-  - Denk mal drüber nach, digga :3
-    - oder drüber nachgedacht, lmao
+  - added various bug fixes, modding APIs, private servers, and some cpp and nw-gyp into the game.
+- **Random PCB's** (2024-now, closed-source)
+  - worked on random circuit boards
+  - got to learn kicad, basics of electrical engineering, etc..
+  - helped my team develop a pcb for their project
+  - really fun! (but really really expensive)
+- **mochaaaa.dev** (2024-now, closed-source)
+  - got my own website (finally..)
+  - general description of me and what i do
+- **denkmaldrueberna.ch** (2025-now, closed-source)
+  - website and minecraft server for my friends
+  - denk mal drüber nach
